@@ -6,11 +6,11 @@ import { property } from 'lit/decorators.js';
 const ForgeCard = customElements.get('forge-card')!;
 
 export class BetaCard extends (ForgeCard as unknown as typeof LitElement) {
-  static styles = [
-    ...(Array.isArray((ForgeCard as any).styles)
-      ? (ForgeCard as any).styles
-      : (ForgeCard as any).styles
-        ? [(ForgeCard as any).styles]
+  static css = [
+    ...(Array.isArray((ForgeCard as any).css)
+      ? (ForgeCard as any).css
+      : (ForgeCard as any).css
+        ? [(ForgeCard as any).css]
         : []),
     css`
       /* Beta playful card refinements */
