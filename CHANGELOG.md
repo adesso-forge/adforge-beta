@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/adesso-forge/ds-beta/compare/v1.0.0...v1.0.1) (2026-02-26)
+
+
+### Bug Fixes
+
+* improve compat-check to produce meaningful PRs, normalize compatibility.json, remove paths-ignore ([d7ffb7c](https://github.com/adesso-forge/ds-beta/commit/d7ffb7c31e3e27570a68f6e12503525a476b3188))
+
 ## [1.2.3](https://github.com/adesso-forge/ds-beta/compare/v1.2.2...v1.2.3) (2026-02-26)
 
 
