@@ -1,3 +1,10 @@
+## [1.1.4](https://github.com/adesso-forge/ds-beta/compare/v1.1.3...v1.1.4) (2026-02-26)
+
+
+### Bug Fixes
+
+* disable frozen-lockfile in compat-check ([12df5d1](https://github.com/adesso-forge/ds-beta/commit/12df5d1851a273d44b17e91aeeb966b2caec8476))
+
 ## [1.1.3](https://github.com/adesso-forge/ds-beta/compare/v1.1.2...v1.1.3) (2026-02-26)
 
 
