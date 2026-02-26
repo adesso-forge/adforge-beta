@@ -1,0 +1,30 @@
+/* @adesso-forge/ds-beta — Light mode — "Warm Playful" */
+
+:root,
+.wa-light,
+.wa-dark .wa-invert {
+  /* Brand palette — warm orange / coral */
+  --wa-color-brand-50: #FFF7ED;
+  --wa-color-brand-100: #FFEDD5;
+  --wa-color-brand-200: #FED7AA;
+  --wa-color-brand-300: #FDBA74;
+  --wa-color-brand-400: #FB923C;
+  --wa-color-brand-500: #F97316;
+  --wa-color-brand-600: #EA580C;
+  --wa-color-brand-700: #C2410C;
+  --wa-color-brand-800: #9A3412;
+  --wa-color-brand-900: #7C2D12;
+
+  /* Neutral palette — warm gray */
+  --wa-color-neutral-95: #FAF9F7;
+  --wa-color-neutral-90: #F0EEEB;
+  --wa-color-neutral-80: #D6D3CF;
+  --wa-color-neutral-50: #78716C;
+  --wa-color-neutral-20: #44403C;
+  --wa-color-neutral-10: #292524;
+
+  /* Surfaces */
+  --wa-color-surface-default: #FFFBF5;
+  --wa-color-surface-raised: var(--wa-color-neutral-95);
+  --wa-color-surface-lowered: var(--wa-color-neutral-90);
+}

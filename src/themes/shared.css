@@ -1,0 +1,27 @@
+/* @adesso-forge/ds-beta — Shared tokens (scheme-agnostic)
+ * Warm Playful: friendly, approachable, rounded
+ */
+
+:root {
+  /* Typography — playful feel */
+  --wa-font-family-sans: 'Nunito', 'Quicksand', system-ui, sans-serif;
+  --wa-font-weight-action: 700;
+
+  /* Spacing — generous and airy */
+  --wa-space-s: 0.625rem;
+  --wa-space-m: 1.125rem;
+  --wa-space-l: 2rem;
+
+  /* Borders — very rounded for playful feel */
+  --wa-border-radius-s: 0.5rem;
+  --wa-border-radius-m: 0.875rem;
+  --wa-border-radius-l: 1.25rem;
+
+  /* Focus */
+  --wa-focus-ring-width: 3px;
+  --wa-focus-ring-color: var(--wa-color-brand-400);
+
+  /* Transitions — slightly bouncy */
+  --wa-transition-fast: 120ms;
+  --wa-transition-medium: 220ms;
+}

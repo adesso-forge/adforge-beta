@@ -1,0 +1,7 @@
+{
+  "name": "ds-beta",
+  "prefix": "beta",
+  "description": "Warm Playful client design system",
+  "extended": ["card"],
+  "port": 6008
+}
