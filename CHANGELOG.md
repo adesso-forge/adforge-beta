@@ -1,3 +1,11 @@
+# [1.2.0](https://github.com/adesso-forge/adforge-beta/compare/v1.1.9...v1.2.0) (2026-02-27)
+
+
+### Features
+
+* add lint, format scripts and CI quality gates ([caac835](https://github.com/adesso-forge/adforge-beta/commit/caac8353e58f2b7645b77cbcdd16fbf0f9db8a8a))
+* add quality tooling configuration ([107b0da](https://github.com/adesso-forge/adforge-beta/commit/107b0da521b992728bac4a94572a395066d4cc56))
+
 ## [1.1.9](https://github.com/adesso-forge/adforge-beta/compare/v1.1.8...v1.1.9) (2026-02-27)
 
 
