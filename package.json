@@ -1,6 +1,6 @@
 {
   "name": "@adesso-forge/adforge-beta",
-  "version": "1.1.8",
+  "version": "1.1.9",
   "description": "Beta client design system — Warm Playful theme built on adesso forge Core DS",
   "type": "module",
   "main": "dist/index.js",
