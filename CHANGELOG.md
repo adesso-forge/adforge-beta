@@ -1,3 +1,10 @@
+## [1.2.2](https://github.com/adesso-forge/adforge-beta/compare/v1.2.1...v1.2.2) (2026-02-27)
+
+
+### Bug Fixes
+
+* update adforge-shared to 1.3.0 ([a0f44f7](https://github.com/adesso-forge/adforge-beta/commit/a0f44f7cf12bfd774043f67963b2d197b8048068))
+
 ## [1.2.1](https://github.com/adesso-forge/adforge-beta/compare/v1.2.0...v1.2.1) (2026-02-27)
 
 
